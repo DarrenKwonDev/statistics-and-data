@@ -24,6 +24,8 @@
 
 # statistics-and-data
 
+데이터 관련 직군 현업자들과 함께한 스터디 로그입니다.
+
 ## ch00. basic math
 
 ### ref
@@ -32,7 +34,7 @@
 
 ## ch01. basic statistics
 
-[01 자료의 정리](./ch01-basic-statistics/01_자료의_정리/main.ipynb)
+[01 자료의 정리](./ch01-basic-statistics/01_자료의_정리/README.md)
 02 상관관계 회귀 분석
 03 확률과 변동성
 04 표본추출
