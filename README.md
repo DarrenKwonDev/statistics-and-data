@@ -30,19 +30,19 @@
 
 ### ref
 
-김도형. (김도형의) 데이터 사이언스 스쿨 : 수학편 / 김도형 지음 (2019). Print.
+> 김도형. (김도형의) 데이터 사이언스 스쿨 : 수학편 / 김도형 지음 (2019). Print.
 
 ## ch01. basic statistics
 
-[01 자료의 정리](./ch01-basic-statistics/01_자료의_정리/README.md)
-02 상관관계 회귀 분석
-03 확률과 변동성
-04 표본추출
-05 유의성 검정
+- [01 자료의 정리](./ch01-basic-statistics/01_자료의_정리/README.md)
+- 02 상관관계 회귀 분석
+- 03 확률과 변동성
+- 04 표본추출
+- 05 유의성 검정
 
 ### ref
 
-류근관. 통계학 / 저자: 류근관 (2013).
+> 류근관. 통계학 / 저자: 류근관 (2013).
 
 ## ch02. bayesian statistics
 
@@ -52,7 +52,7 @@
 
 ### ref
 
-Kohavi, Ron, Alex Deng, Brian Frasca, Roger Longbotham, Toby Walker, and Ya Xu. "Trustworthy Online Controlled Experiments."
+> Kohavi, Ron, Alex Deng, Brian Frasca, Roger Longbotham, Toby Walker, and Ya Xu. "Trustworthy Online Controlled Experiments."
 
 ## ch04. machine learning
 
