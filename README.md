@@ -15,6 +15,7 @@
     - [ref](#ref-4)
   - [ch05. data engineering](#ch05-data-engineering)
     - [ref](#ref-5)
+  - [ch06. doc-culture](#ch06-doc-culture)
   - [etc](#etc)
     - [disclaimer](#disclaimer)
     - [pre-commit hook](#pre-commit-hook)
@@ -61,6 +62,11 @@
 ## ch05. data engineering
 
 ### ref
+
+## ch06. doc-culture
+
+문서 주도 문화를 도입하기 위한 시도와 그 기록
+https://github.com/DarrenKwonDev/doc-culture
 
 ## etc
 
