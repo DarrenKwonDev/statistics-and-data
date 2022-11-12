@@ -24,6 +24,12 @@
 
 ## ch01. basic statistics
 
+[01 자료의 정리](./ch01-basic-statistics/01_자료의_정리/main.ipynb)
+02 상관관계 회귀 분석
+03 확률과 변동성
+04 표본추출
+05 유의성 검정
+
 ### ref
 
 류근관. 통계학 / 저자: 류근관 (2013).
@@ -35,6 +41,8 @@
 ## ch03. controlled experiments
 
 ### ref
+
+Kohavi, Ron, Alex Deng, Brian Frasca, Roger Longbotham, Toby Walker, and Ya Xu. "Trustworthy Online Controlled Experiments."
 
 ## ch04. machine learning
 
