@@ -3,16 +3,18 @@
 <!-- code_chunk_output -->
 
 - [statistics-and-data](#statistics-and-data)
-  - [ch01. basic statistics](#ch01-basic-statistics)
+  - [ch00. basic math](#ch00-basic-math)
     - [ref](#ref)
-  - [ch02. bayesian statistics](#ch02-bayesian-statistics)
+  - [ch01. basic statistics](#ch01-basic-statistics)
     - [ref](#ref-1)
-  - [ch03. controlled experiments](#ch03-controlled-experiments)
+  - [ch02. bayesian statistics](#ch02-bayesian-statistics)
     - [ref](#ref-2)
-  - [ch04. machine learning](#ch04-machine-learning)
+  - [ch03. controlled experiments](#ch03-controlled-experiments)
     - [ref](#ref-3)
-  - [ch05. data engineering](#ch05-data-engineering)
+  - [ch04. machine learning](#ch04-machine-learning)
     - [ref](#ref-4)
+  - [ch05. data engineering](#ch05-data-engineering)
+    - [ref](#ref-5)
   - [etc](#etc)
     - [disclaimer](#disclaimer)
     - [pre-commit hook](#pre-commit-hook)
@@ -21,6 +23,12 @@
 <!-- /code_chunk_output -->
 
 # statistics-and-data
+
+## ch00. basic math
+
+### ref
+
+김도형. (김도형의) 데이터 사이언스 스쿨 : 수학편 / 김도형 지음 (2019). Print.
 
 ## ch01. basic statistics
 
